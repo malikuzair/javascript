@@ -2,4 +2,10 @@
 //Q1
 var allLower = userInput.toLowerCase();
 //Q2
-x = x.toLowerCase();
+let x = "Hello World";
+ x = x.toLowerCase();
+console.log(x);
+//Q3
+let y = "Hello World";
+ y = y.toLowerCase();
+console.log(y);
