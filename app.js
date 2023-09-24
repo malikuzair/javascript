@@ -9,3 +9,10 @@ console.log(x);
 let y = "Hello World";
  y = y.toLowerCase();
 console.log(y);
+//q4
+let originalStr = "Example STRING";
+let lowerStr;
+
+lowerStr = originalStr.toLowerCase();
+
+console.log(lowerStr);
