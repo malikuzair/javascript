@@ -70,3 +70,8 @@ let indx;
 indx = text.lastIndexOf("go");
 indx = indx - 2;
 console.log(indx);
+
+//Ch 26
+const number = 3.7;
+const roundedNumber = Math.round(number);
+console.log(roundedNumber);
