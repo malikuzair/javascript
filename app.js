@@ -104,6 +104,10 @@ console.log(newNum); // Output: "3.1416"
 //q2
 variable =
 parseFloat(variable.toFixed(2).toString());
+//q3 
+if (num.toFixed(2).toString().length > 4) {
+    // code to be executed if the condition is true
+}
 
 //q4
 let num = 123.456789;
