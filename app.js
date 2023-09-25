@@ -48,3 +48,13 @@ console.log(stringLength);
 let seg;
 let animal = "elephant";
 let seg = animal.slice(2, 6);
+//q4
+let str = "example";
+let numChars = str.length;
+let charCount = numChars;
+//q5
+let yourString = "examplestring";
+let charCount = yourString.length;
+let slicedString = yourString.slice(1, charCount - 3);
+let newVariable = slicedString;
+//q6
