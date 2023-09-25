@@ -23,3 +23,11 @@ let lowercaseString = arr[0].toLowerCase();
 let str = "your string";
 let upperCaseStr = str.toUpperCase();
 alert(upperCaseStr);
+//q7
+var userinput = KaRaChi
+
+var firstChar = userinput.slice(0, 1).toUpperCase();
+
+var RemainChar = userinput.slice(1).toLowerCase();
+
+var combineInput = firstChar + RemainChar;
