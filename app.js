@@ -93,6 +93,11 @@ const myString = "42";
 const myInt = parseInt(myString, 10);
 console.log(myInt); // Output: 42
 
+//q7
+const decimalString = "3.14";
+const integer = parseInt(decimalString);
+const binaryString = "1010";
+const integer = parseInt(binaryString, 2);
 
 //ch30
 //q1
