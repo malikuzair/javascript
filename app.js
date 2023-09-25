@@ -33,3 +33,9 @@ var RemainChar = userinput.slice(1).toLowerCase();
 var combineInput = firstChar + RemainChar;
 
 console.log(combineInput)
+
+
+//Chapter 22
+//q1
+let sameWords = "captain";
+let result = sameWords.slice(1, 3);
