@@ -31,3 +31,5 @@ var firstChar = userinput.slice(0, 1).toUpperCase();
 var RemainChar = userinput.slice(1).toLowerCase();
 
 var combineInput = firstChar + RemainChar;
+
+console.log(combineInput)
