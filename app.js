@@ -80,3 +80,28 @@ console.log(roundedNumber);
 let roundedValue;
 roundedValue = Math.round(0.5);
 console.log(roundedValue);
+//ch 27
+
+//q1
+const randomNumber = Math.floor(Math.random() * 50) + 1;
+console.log(randomNumber);
+
+//ch28-29
+//q1
+
+const myString = "42";
+const myInt = parseInt(myString, 10);
+console.log(myInt); // Output: 42
+
+
+//ch30
+//q1
+
+let num = 3.14159;
+let newNum = num.toFixed(4);
+console.log(newNum); // Output: "3.1416"
+
+//q4
+let num = 123.456789;
+let roundedNum = num.toFixed(2);
+alert(roundedNum);
