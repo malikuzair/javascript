@@ -65,3 +65,8 @@ console.log(indx); // Output: 3//
 var text = "To be or not to be.";
 var indx = text.lastIndexOf("be");
 console.log(indx); // Output: 16//
+//q8
+let indx;
+indx = text.lastIndexOf("go");
+indx = indx - 2;
+console.log(indx);
