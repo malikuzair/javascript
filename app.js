@@ -16,3 +16,6 @@ let lowerStr;
 lowerStr = originalStr.toLowerCase();
 
 console.log(lowerStr);
+//q5
+let arr = ["ExampleString"];
+let lowercaseString = arr[0].toLowerCase();
