@@ -39,3 +39,8 @@ console.log(combineInput)
 //q1
 let sameWords = "captain";
 let result = sameWords.slice(1, 3);
+
+//q2
+let myString = "Hello, world!";
+let stringLength = myString.length;
+console.log(stringLength);
