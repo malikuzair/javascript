@@ -19,3 +19,7 @@ console.log(lowerStr);
 //q5
 let arr = ["ExampleString"];
 let lowercaseString = arr[0].toLowerCase();
+//q6
+let str = "your string";
+let upperCaseStr = str.toUpperCase();
+alert(upperCaseStr);
