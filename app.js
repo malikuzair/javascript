@@ -58,3 +58,6 @@ let charCount = yourString.length;
 let slicedString = yourString.slice(1, charCount - 3);
 let newVariable = slicedString;
 //q6
+var text = "To be or not to be.";
+var indx = text.indexOf("be");
+console.log(indx); // Output: 3//
