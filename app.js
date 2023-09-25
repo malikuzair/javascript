@@ -44,3 +44,6 @@ let result = sameWords.slice(1, 3);
 let myString = "Hello, world!";
 let stringLength = myString.length;
 console.log(stringLength);
+//q3
+let animal = "elephant";
+let seg = animal.slice(2, 6);
