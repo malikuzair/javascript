@@ -101,6 +101,10 @@ let num = 3.14159;
 let newNum = num.toFixed(4);
 console.log(newNum); // Output: "3.1416"
 
+//q2
+variable =
+parseFloat(variable.toFixed(2).toString());
+
 //q4
 let num = 123.456789;
 let roundedNum = num.toFixed(2);
