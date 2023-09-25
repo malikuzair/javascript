@@ -61,3 +61,7 @@ let newVariable = slicedString;
 var text = "To be or not to be.";
 var indx = text.indexOf("be");
 console.log(indx); // Output: 3//
+//q7
+var text = "To be or not to be.";
+var indx = text.lastIndexOf("be");
+console.log(indx); // Output: 16//
